@@ -1,0 +1,42 @@
+body {
+	background-color: #161C22;
+	color: rgb(128, 88, 208);
+	width: 200px;
+}
+
+.container, div {
+	width: 100%;
+	height: 100%;
+}
+
+label {
+	text-align: center;
+	height: 20px;
+	width: 100%;
+	border-radius: 12px;
+	color: white;
+	cursor: pointer;
+	display: block;
+	margin-bottom: 5px;
+	background-color: rgb(76, 68, 124);
+}
+
+#visit {
+	background-color: #337ab7;
+}
+
+hr {
+	border-color: #333333;
+}
+
+label.on {
+	background-color: rgb(86, 172, 129);
+}
+
+label.off {
+	background-color:#861B1B;
+}
+
+#title {
+	margin-bottom: 10px;
+}
