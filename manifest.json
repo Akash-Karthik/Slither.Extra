@@ -1,7 +1,7 @@
 {
 "update_url": "https://clients2.google.com/service/update2/crx",
 
-	 "author": "http://slitherplus.io",
+	 "author": "https://sites.google.com/view/slitherextra",
 	 "background": {
 			"scripts": [ "background.js" ]
 	 },
@@ -15,14 +15,14 @@
 			"default_icon": "img/btn/icon128.png",
 			"default_popup": "popup.html"
 	 },
-	 "description": "The Worlds Best Slither.io Mod Zoom and Extension! Hundreds of custom skins! Skin Creator!",
+	 "description": "One Of The World's Best Slither.io Mod Zoom and Extension! Hundreds of custom skins! Skin Creator!",
 	 "icons": {
 			"128": "img/icon128.png",
 			"48": "img/icon48.png",
 			"16": "img/icon16.png"
 	 },
 	 "manifest_version": 2,
-	 "name": "SlitherPlus - Zoom, Skin Creator, Mod,  Bots",
+	 "name": "SlitherPlus - Zoom, Skin Creator, Mod , more",
 	 "permissions": ["*://slither.io/", "*://slither.io/?*","storage" ],
 	 "short_name": "S+",
 	 "version": "6.6",
